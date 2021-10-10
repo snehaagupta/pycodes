@@ -1,0 +1,5 @@
+mystr=input('Enter String:\n')
+mystr1=mystr.upper()
+mystr2=mystr.lower()
+print(mystr1)
+print(mystr2)
